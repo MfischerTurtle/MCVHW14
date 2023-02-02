@@ -1,0 +1,28 @@
+[
+    {
+      "comment_text": "there here is some comment text",
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "comment_text": "here is some more comment text",
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "comment_text": "comment the comment with a comment.",
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "comment_text": "his a dude shes a dude we are all dudes",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "comment_text": "i thought i saw a putty cat",
+      "user_id": 2,
+      "post_id": 1
+    }
+  ]
+  

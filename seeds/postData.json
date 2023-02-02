@@ -1,0 +1,17 @@
+[
+    {
+      "title": "My Seed Post 1",
+      "content": "So this is a post - this is my first seed post.  This post weas created as part of the seed operation",
+      "user_id": 1
+    },
+    {
+      "title": "My Seed Post 2",
+      "content": "This is the second post.",
+      "user_id": 1
+    },
+    {
+      "title": "My Seed Post 3",
+      "content": "Making my way down town",
+      "user_id": 3
+    }
+  ]
